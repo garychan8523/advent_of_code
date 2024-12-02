@@ -1,0 +1,281 @@
+row 0
+line_groups [{'num': 172, 'start': 2, 'end': 4}, {'num': 454, 'start': 35, 'end': 37}, {'num': 46, 'start': 40, 'end': 41}, {'num': 507, 'start': 49, 'end': 51}, {'num': 809, 'start': 62, 'end': 64}, {'num': 923, 'start': 71, 'end': 73}, {'num': 778, 'start': 75, 'end': 77}, {'num': 793, 'start': 96, 'end': 98}, {'num': 137, 'start': 113, 'end': 115}, {'num': 238, 'start': 129, 'end': 131}]
+row 1
+line_groups [{'num': 712, 'start': 22, 'end': 24}, {'num': 515, 'start': 58, 'end': 60}, {'num': 690, 'start': 82, 'end': 84}, {'num': 658, 'start': 107, 'end': 109}]
+row 2
+line_groups [{'num': 823, 'start': 9, 'end': 11}, {'num': 835, 'start': 13, 'end': 15}, {'num': 710, 'start': 34, 'end': 36}, {'num': 749, 'start': 42, 'end': 44}, {'num': 134, 'start': 53, 'end': 55}, {'num': 812, 'start': 88, 'end': 90}, {'num': 925, 'start': 100, 'end': 102}, {'num': 276, 'start': 117, 'end': 119}, {'num': 386, 'start': 127, 'end': 129}]
+row 3
+line_groups [{'num': 519, 'start': 0, 'end': 2}, {'num': 13, 'start': 21, 'end': 22}, {'num': 341, 'start': 29, 'end': 31}, {'num': 481, 'start': 49, 'end': 51}, {'num': 211, 'start': 83, 'end': 85}, {'num': 92, 'start': 93, 'end': 94}]
+row 4
+line_groups [{'num': 832, 'start': 12, 'end': 14}, {'num': 105, 'start': 16, 'end': 18}, {'num': 797, 'start': 59, 'end': 61}, {'num': 535, 'start': 67, 'end': 69}, {'num': 932, 'start': 72, 'end': 74}, {'num': 152, 'start': 89, 'end': 91}, {'num': 123, 'start': 103, 'end': 105}, {'num': 678, 'start': 115, 'end': 117}, {'num': 540, 'start': 119, 'end': 121}, {'num': 6, 'start': 137, 'end': 137}]
+row 5
+line_groups [{'num': 948, 'start': 7, 'end': 9}, {'num': 271, 'start': 36, 'end': 38}, {'num': 228, 'start': 48, 'end': 50}, {'num': 79, 'start': 53, 'end': 54}, {'num': 26, 'start': 56, 'end': 57}, {'num': 733, 'start': 83, 'end': 85}, {'num': 715, 'start': 93, 'end': 95}, {'num': 27, 'start': 108, 'end': 109}, {'num': 586, 'start': 111, 'end': 113}, {'num': 883, 'start': 130, 'end': 132}]
+row 6
+line_groups [{'num': 172, 'start': 2, 'end': 4}, {'num': 88, 'start': 29, 'end': 30}, {'num': 340, 'start': 41, 'end': 43}, {'num': 55, 'start': 45, 'end': 46}, {'num': 465, 'start': 66, 'end': 68}, {'num': 398, 'start': 71, 'end': 73}, {'num': 585, 'start': 99, 'end': 101}, {'num': 812, 'start': 115, 'end': 117}, {'num': 347, 'start': 121, 'end': 123}]
+row 7
+line_groups [{'num': 374, 'start': 11, 'end': 13}, {'num': 462, 'start': 15, 'end': 17}, {'num': 166, 'start': 25, 'end': 27}, {'num': 786, 'start': 58, 'end': 60}, {'num': 910, 'start': 75, 'end': 77}, {'num': 675, 'start': 80, 'end': 82}, {'num': 149, 'start': 106, 'end': 108}, {'num': 653, 'start': 125, 'end': 127}, {'num': 80, 'start': 134, 'end': 135}]
+row 8
+line_groups [{'num': 680, 'start': 20, 'end': 22}, {'num': 876, 'start': 35, 'end': 37}, {'num': 864, 'start': 47, 'end': 49}, {'num': 259, 'start': 68, 'end': 70}, {'num': 124, 'start': 88, 'end': 90}, {'num': 169, 'start': 92, 'end': 94}, {'num': 799, 'start': 99, 'end': 101}, {'num': 608, 'start': 114, 'end': 116}, {'num': 98, 'start': 129, 'end': 130}, {'num': 951, 'start': 137, 'end': 139}]
+row 9
+line_groups [{'num': 615, 'start': 4, 'end': 6}, {'num': 151, 'start': 25, 'end': 27}, {'num': 802, 'start': 43, 'end': 45}, {'num': 680, 'start': 62, 'end': 64}, {'num': 857, 'start': 105, 'end': 107}, {'num': 901, 'start': 118, 'end': 120}]
+row 10
+line_groups [{'num': 3, 'start': 14, 'end': 14}, {'num': 637, 'start': 32, 'end': 34}, {'num': 493, 'start': 37, 'end': 39}, {'num': 926, 'start': 51, 'end': 53}, {'num': 636, 'start': 58, 'end': 60}, {'num': 350, 'start': 69, 'end': 71}, {'num': 881, 'start': 80, 'end': 82}, {'num': 699, 'start': 92, 'end': 94}, {'num': 886, 'start': 101, 'end': 103}, {'num': 458, 'start': 109, 'end': 111}, {'num': 474, 'start': 126, 'end': 128}, {'num': 409, 'start': 130, 'end': 132}, {'num': 246, 'start': 136, 'end': 138}]
+row 11
+line_groups [{'num': 336, 'start': 7, 'end': 9}, {'num': 922, 'start': 16, 'end': 18}, {'num': 370, 'start': 42, 'end': 44}, {'num': 581, 'start': 62, 'end': 64}, {'num': 335, 'start': 75, 'end': 77}, {'num': 608, 'start': 87, 'end': 89}, {'num': 11, 'start': 96, 'end': 97}, {'num': 928, 'start': 121, 'end': 123}]
+row 12
+line_groups [{'num': 50, 'start': 3, 'end': 4}, {'num': 978, 'start': 29, 'end': 31}, {'num': 453, 'start': 35, 'end': 37}, {'num': 22, 'start': 54, 'end': 55}, {'num': 298, 'start': 66, 'end': 68}, {'num': 711, 'start': 80, 'end': 82}, {'num': 794, 'start': 92, 'end': 94}, {'num': 267, 'start': 102, 'end': 104}, {'num': 44, 'start': 117, 'end': 118}, {'num': 460, 'start': 127, 'end': 129}]
+row 13
+line_groups [{'num': 534, 'start': 44, 'end': 46}, {'num': 797, 'start': 49, 'end': 51}, {'num': 61, 'start': 70, 'end': 71}, {'num': 272, 'start': 76, 'end': 78}, {'num': 874, 'start': 85, 'end': 87}, {'num': 892, 'start': 98, 'end': 100}, {'num': 707, 'start': 106, 'end': 108}, {'num': 230, 'start': 122, 'end': 124}, {'num': 72, 'start': 132, 'end': 133}, {'num': 537, 'start': 135, 'end': 137}]
+row 14
+line_groups [{'num': 405, 'start': 20, 'end': 22}, {'num': 309, 'start': 35, 'end': 37}, {'num': 221, 'start': 64, 'end': 66}, {'num': 872, 'start': 92, 'end': 94}, {'num': 75, 'start': 103, 'end': 104}, {'num': 237, 'start': 114, 'end': 116}]
+row 15
+line_groups [{'num': 208, 'start': 2, 'end': 4}, {'num': 176, 'start': 6, 'end': 8}, {'num': 239, 'start': 11, 'end': 13}, {'num': 172, 'start': 24, 'end': 26}, {'num': 795, 'start': 40, 'end': 42}, {'num': 670, 'start': 56, 'end': 58}, {'num': 9, 'start': 69, 'end': 69}, {'num': 504, 'start': 72, 'end': 74}, {'num': 717, 'start': 83, 'end': 85}, {'num': 641, 'start': 88, 'end': 90}, {'num': 908, 'start': 99, 'end': 101}, {'num': 975, 'start': 107, 'end': 109}, {'num': 130, 'start': 122, 'end': 124}]
+row 16
+line_groups [{'num': 711, 'start': 18, 'end': 20}, {'num': 54, 'start': 45, 'end': 46}, {'num': 494, 'start': 52, 'end': 54}, {'num': 333, 'start': 61, 'end': 63}, {'num': 882, 'start': 65, 'end': 67}, {'num': 282, 'start': 79, 'end': 81}, {'num': 927, 'start': 94, 'end': 96}, {'num': 555, 'start': 112, 'end': 114}, {'num': 983, 'start': 117, 'end': 119}, {'num': 479, 'start': 132, 'end': 134}]
+row 17
+line_groups [{'num': 915, 'start': 1, 'end': 3}, {'num': 670, 'start': 10, 'end': 12}, {'num': 524, 'start': 14, 'end': 16}, {'num': 866, 'start': 33, 'end': 35}, {'num': 862, 'start': 39, 'end': 41}, {'num': 72, 'start': 98, 'end': 99}, {'num': 901, 'start': 101, 'end': 103}, {'num': 995, 'start': 122, 'end': 124}]
+row 18
+line_groups [{'num': 71, 'start': 20, 'end': 21}, {'num': 33, 'start': 54, 'end': 55}, {'num': 350, 'start': 57, 'end': 59}, {'num': 796, 'start': 61, 'end': 63}, {'num': 612, 'start': 69, 'end': 71}, {'num': 463, 'start': 88, 'end': 90}, {'num': 399, 'start': 106, 'end': 108}, {'num': 309, 'start': 129, 'end': 131}]
+row 19
+line_groups [{'num': 8, 'start': 4, 'end': 4}, {'num': 951, 'start': 7, 'end': 9}, {'num': 886, 'start': 11, 'end': 13}, {'num': 41, 'start': 27, 'end': 28}, {'num': 606, 'start': 36, 'end': 38}, {'num': 680, 'start': 40, 'end': 42}, {'num': 787, 'start': 46, 'end': 48}, {'num': 605, 'start': 65, 'end': 67}, {'num': 892, 'start': 74, 'end': 76}, {'num': 219, 'start': 84, 'end': 86}, {'num': 972, 'start': 97, 'end': 99}, {'num': 846, 'start': 102, 'end': 104}, {'num': 377, 'start': 114, 'end': 116}, {'num': 644, 'start': 121, 'end': 123}]
+row 20
+line_groups [{'num': 718, 'start': 30, 'end': 32}, {'num': 355, 'start': 57, 'end': 59}, {'num': 688, 'start': 61, 'end': 63}, {'num': 145, 'start': 78, 'end': 80}, {'num': 576, 'start': 108, 'end': 110}]
+row 21
+line_groups [{'num': 867, 'start': 10, 'end': 12}, {'num': 974, 'start': 40, 'end': 42}, {'num': 148, 'start': 46, 'end': 48}, {'num': 87, 'start': 75, 'end': 76}, {'num': 500, 'start': 87, 'end': 89}, {'num': 534, 'start': 94, 'end': 96}, {'num': 986, 'start': 99, 'end': 101}, {'num': 269, 'start': 104, 'end': 106}, {'num': 576, 'start': 116, 'end': 118}, {'num': 302, 'start': 123, 'end': 125}]
+row 22
+line_groups [{'num': 504, 'start': 15, 'end': 17}, {'num': 652, 'start': 34, 'end': 36}, {'num': 104, 'start': 62, 'end': 64}, {'num': 502, 'start': 70, 'end': 72}, {'num': 691, 'start': 111, 'end': 113}, {'num': 423, 'start': 127, 'end': 129}, {'num': 706, 'start': 132, 'end': 134}, {'num': 402, 'start': 137, 'end': 139}]
+row 23
+line_groups [{'num': 286, 'start': 1, 'end': 3}, {'num': 218, 'start': 6, 'end': 8}, {'num': 882, 'start': 10, 'end': 12}, {'num': 579, 'start': 26, 'end': 28}, {'num': 320, 'start': 51, 'end': 53}, {'num': 48, 'start': 74, 'end': 75}, {'num': 393, 'start': 77, 'end': 79}, {'num': 202, 'start': 85, 'end': 87}, {'num': 758, 'start': 94, 'end': 96}, {'num': 242, 'start': 102, 'end': 104}, {'num': 951, 'start': 107, 'end': 109}]
+row 24
+line_groups [{'num': 943, 'start': 19, 'end': 21}, {'num': 928, 'start': 35, 'end': 37}, {'num': 310, 'start': 57, 'end': 59}, {'num': 295, 'start': 113, 'end': 115}, {'num': 133, 'start': 117, 'end': 119}]
+row 25
+line_groups [{'num': 698, 'start': 2, 'end': 4}, {'num': 331, 'start': 8, 'end': 10}, {'num': 859, 'start': 14, 'end': 16}, {'num': 91, 'start': 24, 'end': 25}, {'num': 815, 'start': 40, 'end': 42}, {'num': 822, 'start': 47, 'end': 49}, {'num': 39, 'start': 64, 'end': 65}, {'num': 833, 'start': 76, 'end': 78}, {'num': 749, 'start': 83, 'end': 85}, {'num': 591, 'start': 89, 'end': 91}, {'num': 455, 'start': 103, 'end': 105}, {'num': 30, 'start': 122, 'end': 123}]
+row 26
+line_groups [{'num': 117, 'start': 56, 'end': 58}, {'num': 727, 'start': 96, 'end': 98}, {'num': 256, 'start': 107, 'end': 109}, {'num': 439, 'start': 111, 'end': 113}, {'num': 19, 'start': 117, 'end': 118}, {'num': 478, 'start': 126, 'end': 128}]
+row 27
+line_groups [{'num': 67, 'start': 6, 'end': 7}, {'num': 595, 'start': 9, 'end': 11}, {'num': 599, 'start': 15, 'end': 17}, {'num': 442, 'start': 27, 'end': 29}, {'num': 997, 'start': 33, 'end': 35}, {'num': 187, 'start': 38, 'end': 40}, {'num': 596, 'start': 60, 'end': 62}, {'num': 276, 'start': 65, 'end': 67}, {'num': 141, 'start': 70, 'end': 72}, {'num': 597, 'start': 74, 'end': 76}, {'num': 792, 'start': 78, 'end': 80}, {'num': 780, 'start': 84, 'end': 86}]
+row 28
+line_groups [{'num': 266, 'start': 0, 'end': 2}, {'num': 713, 'start': 20, 'end': 22}, {'num': 783, 'start': 44, 'end': 46}, {'num': 564, 'start': 50, 'end': 52}, {'num': 839, 'start': 95, 'end': 97}, {'num': 255, 'start': 104, 'end': 106}, {'num': 636, 'start': 120, 'end': 122}, {'num': 749, 'start': 129, 'end': 131}]
+row 29
+line_groups [{'num': 963, 'start': 27, 'end': 29}, {'num': 926, 'start': 31, 'end': 33}, {'num': 39, 'start': 35, 'end': 36}, {'num': 274, 'start': 54, 'end': 56}, {'num': 228, 'start': 60, 'end': 62}, {'num': 812, 'start': 73, 'end': 75}, {'num': 487, 'start': 85, 'end': 87}, {'num': 24, 'start': 90, 'end': 91}, {'num': 348, 'start': 135, 'end': 137}]
+row 30
+line_groups [{'num': 618, 'start': 3, 'end': 5}, {'num': 364, 'start': 9, 'end': 11}, {'num': 936, 'start': 13, 'end': 15}, {'num': 708, 'start': 21, 'end': 23}, {'num': 63, 'start': 40, 'end': 41}, {'num': 212, 'start': 68, 'end': 70}, {'num': 191, 'start': 78, 'end': 80}, {'num': 798, 'start': 95, 'end': 97}, {'num': 591, 'start': 119, 'end': 121}, {'num': 906, 'start': 124, 'end': 126}]
+row 31
+line_groups [{'num': 591, 'start': 29, 'end': 31}, {'num': 127, 'start': 35, 'end': 37}, {'num': 491, 'start': 45, 'end': 47}, {'num': 141, 'start': 51, 'end': 53}, {'num': 339, 'start': 85, 'end': 87}, {'num': 483, 'start': 90, 'end': 92}, {'num': 204, 'start': 101, 'end': 103}, {'num': 871, 'start': 111, 'end': 113}, {'num': 465, 'start': 115, 'end': 117}]
+row 32
+line_groups [{'num': 890, 'start': 4, 'end': 6}, {'num': 997, 'start': 25, 'end': 27}, {'num': 723, 'start': 41, 'end': 43}, {'num': 675, 'start': 55, 'end': 57}, {'num': 465, 'start': 60, 'end': 62}, {'num': 372, 'start': 77, 'end': 79}, {'num': 875, 'start': 81, 'end': 83}, {'num': 534, 'start': 105, 'end': 107}, {'num': 209, 'start': 121, 'end': 123}, {'num': 648, 'start': 137, 'end': 139}]
+row 33
+line_groups [{'num': 139, 'start': 31, 'end': 33}, {'num': 273, 'start': 45, 'end': 47}, {'num': 7, 'start': 69, 'end': 69}, {'num': 854, 'start': 90, 'end': 92}, {'num': 920, 'start': 94, 'end': 96}, {'num': 968, 'start': 100, 'end': 102}, {'num': 384, 'start': 114, 'end': 116}, {'num': 830, 'start': 131, 'end': 133}]
+row 34
+line_groups [{'num': 632, 'start': 7, 'end': 9}, {'num': 273, 'start': 13, 'end': 15}, {'num': 132, 'start': 23, 'end': 25}, {'num': 793, 'start': 35, 'end': 37}, {'num': 207, 'start': 63, 'end': 65}, {'num': 952, 'start': 76, 'end': 78}, {'num': 66, 'start': 86, 'end': 87}]
+row 35
+line_groups [{'num': 162, 'start': 39, 'end': 41}, {'num': 35, 'start': 60, 'end': 61}, {'num': 22, 'start': 81, 'end': 82}, {'num': 234, 'start': 90, 'end': 92}, {'num': 468, 'start': 103, 'end': 105}, {'num': 750, 'start': 127, 'end': 129}]
+row 36
+line_groups [{'num': 15, 'start': 5, 'end': 6}, {'num': 161, 'start': 10, 'end': 12}, {'num': 93, 'start': 34, 'end': 35}, {'num': 818, 'start': 44, 'end': 46}, {'num': 580, 'start': 50, 'end': 52}, {'num': 449, 'start': 63, 'end': 65}, {'num': 125, 'start': 85, 'end': 87}, {'num': 129, 'start': 99, 'end': 101}, {'num': 723, 'start': 123, 'end': 125}, {'num': 365, 'start': 132, 'end': 134}]
+row 37
+line_groups [{'num': 678, 'start': 18, 'end': 20}, {'num': 21, 'start': 31, 'end': 32}, {'num': 547, 'start': 58, 'end': 60}, {'num': 701, 'start': 78, 'end': 80}, {'num': 845, 'start': 107, 'end': 109}]
+row 38
+line_groups [{'num': 743, 'start': 0, 'end': 2}, {'num': 634, 'start': 11, 'end': 13}, {'num': 679, 'start': 67, 'end': 69}, {'num': 176, 'start': 82, 'end': 84}, {'num': 979, 'start': 91, 'end': 93}, {'num': 928, 'start': 114, 'end': 116}, {'num': 848, 'start': 127, 'end': 129}]
+row 39
+line_groups [{'num': 107, 'start': 15, 'end': 17}, {'num': 296, 'start': 22, 'end': 24}, {'num': 845, 'start': 29, 'end': 31}, {'num': 69, 'start': 76, 'end': 77}, {'num': 442, 'start': 95, 'end': 97}, {'num': 960, 'start': 107, 'end': 109}, {'num': 311, 'start': 122, 'end': 124}]
+row 40
+line_groups [{'num': 519, 'start': 38, 'end': 40}, {'num': 58, 'start': 46, 'end': 47}, {'num': 248, 'start': 62, 'end': 64}, {'num': 582, 'start': 72, 'end': 74}, {'num': 403, 'start': 84, 'end': 86}, {'num': 929, 'start': 103, 'end': 105}, {'num': 486, 'start': 127, 'end': 129}, {'num': 151, 'start': 137, 'end': 139}]
+row 41
+line_groups [{'num': 390, 'start': 5, 'end': 7}, {'num': 396, 'start': 12, 'end': 14}, {'num': 279, 'start': 24, 'end': 26}, {'num': 718, 'start': 34, 'end': 36}, {'num': 449, 'start': 49, 'end': 51}, {'num': 794, 'start': 57, 'end': 59}, {'num': 251, 'start': 91, 'end': 93}, {'num': 980, 'start': 97, 'end': 99}, {'num': 328, 'start': 114, 'end': 116}, {'num': 476, 'start': 119, 'end': 121}]
+row 42
+line_groups [{'num': 292, 'start': 64, 'end': 66}, {'num': 188, 'start': 76, 'end': 78}, {'num': 112, 'start': 85, 'end': 87}, {'num': 315, 'start': 101, 'end': 103}, {'num': 529, 'start': 109, 'end': 111}]
+row 43
+line_groups [{'num': 713, 'start': 0, 'end': 2}, {'num': 860, 'start': 13, 'end': 15}, {'num': 114, 'start': 22, 'end': 24}, {'num': 743, 'start': 26, 'end': 28}, {'num': 368, 'start': 37, 'end': 39}, {'num': 776, 'start': 41, 'end': 43}, {'num': 195, 'start': 47, 'end': 49}, {'num': 850, 'start': 59, 'end': 61}, {'num': 943, 'start': 80, 'end': 82}, {'num': 543, 'start': 95, 'end': 97}, {'num': 483, 'start': 117, 'end': 119}, {'num': 625, 'start': 121, 'end': 123}]
+row 44
+line_groups [{'num': 889, 'start': 6, 'end': 8}, {'num': 916, 'start': 53, 'end': 55}, {'num': 201, 'start': 69, 'end': 71}, {'num': 426, 'start': 100, 'end': 102}, {'num': 627, 'start': 108, 'end': 110}, {'num': 284, 'start': 125, 'end': 127}]
+row 45
+line_groups [{'num': 452, 'start': 1, 'end': 3}, {'num': 579, 'start': 15, 'end': 17}, {'num': 786, 'start': 29, 'end': 31}, {'num': 961, 'start': 33, 'end': 35}, {'num': 15, 'start': 37, 'end': 38}, {'num': 488, 'start': 46, 'end': 48}, {'num': 373, 'start': 57, 'end': 59}, {'num': 830, 'start': 65, 'end': 67}, {'num': 947, 'start': 75, 'end': 77}, {'num': 645, 'start': 79, 'end': 81}, {'num': 189, 'start': 83, 'end': 85}, {'num': 367, 'start': 94, 'end': 96}, {'num': 551, 'start': 120, 'end': 122}]
+row 46
+line_groups [{'num': 99, 'start': 10, 'end': 11}, {'num': 388, 'start': 21, 'end': 23}, {'num': 793, 'start': 25, 'end': 27}, {'num': 578, 'start': 40, 'end': 42}, {'num': 497, 'start': 88, 'end': 90}, {'num': 221, 'start': 101, 'end': 103}, {'num': 720, 'start': 106, 'end': 108}, {'num': 885, 'start': 112, 'end': 114}, {'num': 588, 'start': 124, 'end': 126}, {'num': 692, 'start': 131, 'end': 133}]
+row 47
+line_groups [{'num': 903, 'start': 29, 'end': 31}, {'num': 81, 'start': 34, 'end': 35}, {'num': 615, 'start': 67, 'end': 69}, {'num': 202, 'start': 75, 'end': 77}, {'num': 355, 'start': 81, 'end': 83}, {'num': 997, 'start': 92, 'end': 94}]
+row 48
+line_groups [{'num': 780, 'start': 11, 'end': 13}, {'num': 259, 'start': 20, 'end': 22}, {'num': 439, 'start': 24, 'end': 26}, {'num': 483, 'start': 44, 'end': 46}, {'num': 596, 'start': 51, 'end': 53}, {'num': 490, 'start': 57, 'end': 59}, {'num': 415, 'start': 62, 'end': 64}, {'num': 683, 'start': 107, 'end': 109}, {'num': 371, 'start': 119, 'end': 121}, {'num': 644, 'start': 126, 'end': 128}, {'num': 964, 'start': 131, 'end': 133}]
+row 49
+line_groups [{'num': 796, 'start': 7, 'end': 9}, {'num': 161, 'start': 16, 'end': 18}, {'num': 884, 'start': 30, 'end': 32}, {'num': 458, 'start': 69, 'end': 71}, {'num': 247, 'start': 73, 'end': 75}, {'num': 500, 'start': 77, 'end': 79}, {'num': 145, 'start': 88, 'end': 90}, {'num': 895, 'start': 92, 'end': 94}, {'num': 62, 'start': 96, 'end': 97}, {'num': 742, 'start': 99, 'end': 101}, {'num': 267, 'start': 103, 'end': 105}, {'num': 16, 'start': 116, 'end': 117}]
+row 50
+line_groups [{'num': 998, 'start': 23, 'end': 25}, {'num': 173, 'start': 37, 'end': 39}, {'num': 511, 'start': 42, 'end': 44}, {'num': 552, 'start': 57, 'end': 59}, {'num': 847, 'start': 61, 'end': 63}, {'num': 651, 'start': 84, 'end': 86}, {'num': 108, 'start': 110, 'end': 112}, {'num': 975, 'start': 137, 'end': 139}]
+row 51
+line_groups [{'num': 444, 'start': 1, 'end': 3}, {'num': 560, 'start': 9, 'end': 11}, {'num': 297, 'start': 13, 'end': 15}, {'num': 149, 'start': 19, 'end': 21}, {'num': 173, 'start': 68, 'end': 70}, {'num': 365, 'start': 90, 'end': 92}, {'num': 986, 'start': 105, 'end': 107}, {'num': 271, 'start': 122, 'end': 124}, {'num': 182, 'start': 128, 'end': 130}, {'num': 26, 'start': 134, 'end': 135}]
+row 52
+line_groups [{'num': 84, 'start': 5, 'end': 6}, {'num': 471, 'start': 37, 'end': 39}, {'num': 696, 'start': 41, 'end': 43}, {'num': 736, 'start': 45, 'end': 47}, {'num': 107, 'start': 49, 'end': 51}, {'num': 974, 'start': 56, 'end': 58}, {'num': 614, 'start': 63, 'end': 65}, {'num': 930, 'start': 101, 'end': 103}, {'num': 364, 'start': 137, 'end': 139}]
+row 53
+line_groups [{'num': 800, 'start': 12, 'end': 14}, {'num': 155, 'start': 19, 'end': 21}, {'num': 235, 'start': 24, 'end': 26}, {'num': 446, 'start': 33, 'end': 35}, {'num': 286, 'start': 76, 'end': 78}, {'num': 822, 'start': 86, 'end': 88}, {'num': 199, 'start': 95, 'end': 97}, {'num': 670, 'start': 110, 'end': 112}]
+row 54
+line_groups [{'num': 882, 'start': 4, 'end': 6}, {'num': 521, 'start': 42, 'end': 44}, {'num': 20, 'start': 50, 'end': 51}, {'num': 282, 'start': 53, 'end': 55}, {'num': 641, 'start': 69, 'end': 71}, {'num': 703, 'start': 82, 'end': 84}, {'num': 887, 'start': 91, 'end': 93}, {'num': 513, 'start': 100, 'end': 102}, {'num': 271, 'start': 104, 'end': 106}, {'num': 819, 'start': 128, 'end': 130}, {'num': 100, 'start': 133, 'end': 135}]
+row 55
+line_groups [{'num': 99, 'start': 1, 'end': 2}, {'num': 933, 'start': 14, 'end': 16}, {'num': 649, 'start': 21, 'end': 23}, {'num': 407, 'start': 31, 'end': 33}, {'num': 922, 'start': 46, 'end': 48}, {'num': 681, 'start': 76, 'end': 78}, {'num': 426, 'start': 114, 'end': 116}, {'num': 204, 'start': 120, 'end': 122}]
+row 56
+line_groups [{'num': 112, 'start': 5, 'end': 7}, {'num': 819, 'start': 36, 'end': 38}, {'num': 94, 'start': 40, 'end': 41}, {'num': 689, 'start': 64, 'end': 66}, {'num': 652, 'start': 70, 'end': 72}, {'num': 182, 'start': 84, 'end': 86}, {'num': 933, 'start': 88, 'end': 90}, {'num': 858, 'start': 92, 'end': 94}, {'num': 711, 'start': 108, 'end': 110}, {'num': 610, 'start': 126, 'end': 128}, {'num': 437, 'start': 135, 'end': 137}]
+row 57
+line_groups [{'num': 540, 'start': 1, 'end': 3}, {'num': 740, 'start': 24, 'end': 26}, {'num': 500, 'start': 30, 'end': 32}, {'num': 184, 'start': 46, 'end': 48}, {'num': 386, 'start': 101, 'end': 103}, {'num': 668, 'start': 131, 'end': 133}]
+row 58
+line_groups [{'num': 719, 'start': 15, 'end': 17}, {'num': 695, 'start': 20, 'end': 22}, {'num': 824, 'start': 34, 'end': 36}, {'num': 882, 'start': 53, 'end': 55}, {'num': 811, 'start': 74, 'end': 76}, {'num': 771, 'start': 85, 'end': 87}, {'num': 142, 'start': 97, 'end': 99}, {'num': 867, 'start': 110, 'end': 112}, {'num': 667, 'start': 114, 'end': 116}, {'num': 299, 'start': 119, 'end': 121}, {'num': 143, 'start': 127, 'end': 129}]
+row 59
+line_groups [{'num': 425, 'start': 0, 'end': 2}, {'num': 120, 'start': 7, 'end': 9}, {'num': 401, 'start': 28, 'end': 30}, {'num': 75, 'start': 60, 'end': 61}, {'num': 2, 'start': 64, 'end': 64}, {'num': 551, 'start': 67, 'end': 69}, {'num': 719, 'start': 79, 'end': 81}, {'num': 44, 'start': 102, 'end': 103}, {'num': 141, 'start': 106, 'end': 108}]
+row 60
+line_groups [{'num': 963, 'start': 17, 'end': 19}, {'num': 209, 'start': 24, 'end': 26}, {'num': 913, 'start': 35, 'end': 37}, {'num': 871, 'start': 55, 'end': 57}, {'num': 904, 'start': 75, 'end': 77}, {'num': 365, 'start': 87, 'end': 89}, {'num': 244, 'start': 91, 'end': 93}, {'num': 495, 'start': 95, 'end': 97}, {'num': 19, 'start': 116, 'end': 117}]
+row 61
+line_groups [{'num': 971, 'start': 5, 'end': 7}, {'num': 883, 'start': 31, 'end': 33}, {'num': 225, 'start': 44, 'end': 46}, {'num': 967, 'start': 48, 'end': 50}, {'num': 44, 'start': 71, 'end': 72}, {'num': 182, 'start': 99, 'end': 101}, {'num': 830, 'start': 108, 'end': 110}, {'num': 190, 'start': 119, 'end': 121}, {'num': 487, 'start': 134, 'end': 136}]
+row 62
+line_groups [{'num': 93, 'start': 57, 'end': 58}, {'num': 577, 'start': 63, 'end': 65}, {'num': 541, 'start': 75, 'end': 77}, {'num': 456, 'start': 84, 'end': 86}, {'num': 370, 'start': 92, 'end': 94}, {'num': 52, 'start': 96, 'end': 97}]
+row 63
+line_groups [{'num': 82, 'start': 2, 'end': 3}, {'num': 396, 'start': 10, 'end': 12}, {'num': 927, 'start': 33, 'end': 35}, {'num': 887, 'start': 38, 'end': 40}, {'num': 268, 'start': 44, 'end': 46}, {'num': 517, 'start': 69, 'end': 71}, {'num': 753, 'start': 107, 'end': 109}]
+row 64
+line_groups [{'num': 607, 'start': 78, 'end': 80}, {'num': 493, 'start': 83, 'end': 85}, {'num': 479, 'start': 87, 'end': 89}, {'num': 521, 'start': 99, 'end': 101}, {'num': 680, 'start': 114, 'end': 116}, {'num': 58, 'start': 118, 'end': 119}, {'num': 879, 'start': 127, 'end': 129}]
+row 65
+line_groups [{'num': 951, 'start': 6, 'end': 8}, {'num': 136, 'start': 26, 'end': 28}, {'num': 585, 'start': 35, 'end': 37}, {'num': 69, 'start': 47, 'end': 48}, {'num': 933, 'start': 53, 'end': 55}, {'num': 25, 'start': 65, 'end': 66}, {'num': 265, 'start': 73, 'end': 75}, {'num': 923, 'start': 95, 'end': 97}, {'num': 5, 'start': 108, 'end': 108}, {'num': 624, 'start': 122, 'end': 124}, {'num': 109, 'start': 133, 'end': 135}]
+row 66
+line_groups [{'num': 826, 'start': 11, 'end': 13}, {'num': 407, 'start': 31, 'end': 33}, {'num': 772, 'start': 80, 'end': 82}, {'num': 628, 'start': 126, 'end': 128}]
+row 67
+line_groups [{'num': 293, 'start': 7, 'end': 9}, {'num': 420, 'start': 16, 'end': 18}, {'num': 140, 'start': 54, 'end': 56}, {'num': 728, 'start': 64, 'end': 66}, {'num': 815, 'start': 69, 'end': 71}, {'num': 196, 'start': 73, 'end': 75}, {'num': 470, 'start': 85, 'end': 87}, {'num': 403, 'start': 93, 'end': 95}, {'num': 807, 'start': 113, 'end': 115}, {'num': 99, 'start': 130, 'end': 131}, {'num': 443, 'start': 137, 'end': 139}]
+row 68
+line_groups [{'num': 732, 'start': 12, 'end': 14}, {'num': 795, 'start': 28, 'end': 30}, {'num': 35, 'start': 35, 'end': 36}, {'num': 18, 'start': 45, 'end': 46}, {'num': 789, 'start': 78, 'end': 80}, {'num': 931, 'start': 97, 'end': 99}, {'num': 52, 'start': 118, 'end': 119}, {'num': 727, 'start': 124, 'end': 126}]
+row 69
+line_groups [{'num': 477, 'start': 17, 'end': 19}, {'num': 682, 'start': 23, 'end': 25}, {'num': 118, 'start': 40, 'end': 42}, {'num': 539, 'start': 52, 'end': 54}, {'num': 844, 'start': 72, 'end': 74}, {'num': 481, 'start': 101, 'end': 103}, {'num': 863, 'start': 131, 'end': 133}, {'num': 773, 'start': 137, 'end': 139}]
+row 70
+line_groups [{'num': 479, 'start': 3, 'end': 5}, {'num': 585, 'start': 29, 'end': 31}, {'num': 817, 'start': 34, 'end': 36}, {'num': 16, 'start': 56, 'end': 57}, {'num': 244, 'start': 59, 'end': 61}, {'num': 826, 'start': 65, 'end': 67}, {'num': 427, 'start': 79, 'end': 81}, {'num': 694, 'start': 97, 'end': 99}, {'num': 834, 'start': 107, 'end': 109}, {'num': 949, 'start': 117, 'end': 119}]
+row 71
+line_groups [{'num': 336, 'start': 20, 'end': 22}, {'num': 205, 'start': 49, 'end': 51}, {'num': 899, 'start': 127, 'end': 129}]
+row 72
+line_groups [{'num': 49, 'start': 4, 'end': 5}, {'num': 971, 'start': 9, 'end': 11}, {'num': 331, 'start': 27, 'end': 29}, {'num': 289, 'start': 32, 'end': 34}, {'num': 661, 'start': 42, 'end': 44}, {'num': 400, 'start': 54, 'end': 56}, {'num': 57, 'start': 60, 'end': 61}, {'num': 711, 'start': 85, 'end': 87}, {'num': 873, 'start': 96, 'end': 98}, {'num': 668, 'start': 112, 'end': 114}, {'num': 94, 'start': 118, 'end': 119}, {'num': 42, 'start': 132, 'end': 133}]
+row 73
+line_groups [{'num': 68, 'start': 23, 'end': 24}, {'num': 557, 'start': 36, 'end': 38}, {'num': 425, 'start': 46, 'end': 48}, {'num': 267, 'start': 63, 'end': 65}, {'num': 993, 'start': 106, 'end': 108}, {'num': 49, 'start': 124, 'end': 125}, {'num': 65, 'start': 136, 'end': 137}]
+row 74
+line_groups [{'num': 647, 'start': 13, 'end': 15}, {'num': 569, 'start': 18, 'end': 20}, {'num': 1, 'start': 41, 'end': 41}, {'num': 823, 'start': 56, 'end': 58}, {'num': 579, 'start': 68, 'end': 70}, {'num': 153, 'start': 84, 'end': 86}, {'num': 65, 'start': 90, 'end': 91}, {'num': 263, 'start': 95, 'end': 97}, {'num': 320, 'start': 102, 'end': 104}, {'num': 243, 'start': 115, 'end': 117}, {'num': 626, 'start': 129, 'end': 131}]
+row 75
+line_groups [{'num': 128, 'start': 7, 'end': 9}, {'num': 215, 'start': 24, 'end': 26}, {'num': 684, 'start': 33, 'end': 35}, {'num': 519, 'start': 45, 'end': 47}, {'num': 247, 'start': 50, 'end': 52}, {'num': 320, 'start': 108, 'end': 110}]
+row 76
+line_groups [{'num': 827, 'start': 19, 'end': 21}, {'num': 954, 'start': 29, 'end': 31}, {'num': 378, 'start': 41, 'end': 43}, {'num': 553, 'start': 54, 'end': 56}, {'num': 434, 'start': 71, 'end': 73}, {'num': 644, 'start': 84, 'end': 86}, {'num': 208, 'start': 115, 'end': 117}, {'num': 88, 'start': 130, 'end': 131}, {'num': 387, 'start': 134, 'end': 136}]
+row 77
+line_groups [{'num': 907, 'start': 1, 'end': 3}, {'num': 402, 'start': 6, 'end': 8}, {'num': 16, 'start': 34, 'end': 35}, {'num': 507, 'start': 59, 'end': 61}, {'num': 403, 'start': 64, 'end': 66}, {'num': 272, 'start': 94, 'end': 96}, {'num': 496, 'start': 100, 'end': 102}, {'num': 750, 'start': 107, 'end': 109}, {'num': 12, 'start': 111, 'end': 112}]
+row 78
+line_groups [{'num': 555, 'start': 13, 'end': 15}, {'num': 610, 'start': 17, 'end': 19}, {'num': 454, 'start': 21, 'end': 23}, {'num': 322, 'start': 37, 'end': 39}, {'num': 954, 'start': 44, 'end': 46}, {'num': 529, 'start': 49, 'end': 51}, {'num': 25, 'start': 54, 'end': 55}, {'num': 651, 'start': 73, 'end': 75}, {'num': 43, 'start': 77, 'end': 78}, {'num': 534, 'start': 82, 'end': 84}, {'num': 121, 'start': 126, 'end': 128}, {'num': 442, 'start': 130, 'end': 132}, {'num': 709, 'start': 135, 'end': 137}]
+row 79
+line_groups [{'num': 269, 'start': 1, 'end': 3}, {'num': 410, 'start': 5, 'end': 7}, {'num': 163, 'start': 58, 'end': 60}, {'num': 608, 'start': 62, 'end': 64}, {'num': 451, 'start': 68, 'end': 70}, {'num': 999, 'start': 96, 'end': 98}, {'num': 292, 'start': 120, 'end': 122}]
+row 80
+line_groups [{'num': 867, 'start': 11, 'end': 13}, {'num': 595, 'start': 18, 'end': 20}, {'num': 88, 'start': 22, 'end': 23}, {'num': 990, 'start': 30, 'end': 32}, {'num': 473, 'start': 36, 'end': 38}, {'num': 406, 'start': 72, 'end': 74}, {'num': 285, 'start': 76, 'end': 78}, {'num': 825, 'start': 80, 'end': 82}, {'num': 464, 'start': 89, 'end': 91}, {'num': 378, 'start': 107, 'end': 109}, {'num': 835, 'start': 113, 'end': 115}, {'num': 570, 'start': 133, 'end': 135}, {'num': 484, 'start': 137, 'end': 139}]
+row 81
+line_groups [{'num': 550, 'start': 5, 'end': 7}, {'num': 162, 'start': 44, 'end': 46}, {'num': 812, 'start': 51, 'end': 53}, {'num': 37, 'start': 55, 'end': 56}, {'num': 693, 'start': 122, 'end': 124}]
+row 82
+line_groups [{'num': 385, 'start': 9, 'end': 11}, {'num': 934, 'start': 28, 'end': 30}, {'num': 810, 'start': 33, 'end': 35}, {'num': 758, 'start': 63, 'end': 65}, {'num': 313, 'start': 68, 'end': 70}, {'num': 413, 'start': 79, 'end': 81}, {'num': 265, 'start': 92, 'end': 94}, {'num': 691, 'start': 96, 'end': 98}, {'num': 559, 'start': 102, 'end': 104}, {'num': 807, 'start': 117, 'end': 119}, {'num': 824, 'start': 128, 'end': 130}, {'num': 608, 'start': 132, 'end': 134}]
+row 83
+line_groups [{'num': 373, 'start': 4, 'end': 6}, {'num': 580, 'start': 41, 'end': 43}, {'num': 506, 'start': 49, 'end': 51}, {'num': 852, 'start': 75, 'end': 77}, {'num': 786, 'start': 85, 'end': 87}]
+row 84
+line_groups [{'num': 932, 'start': 11, 'end': 13}, {'num': 194, 'start': 18, 'end': 20}, {'num': 688, 'start': 22, 'end': 24}, {'num': 713, 'start': 28, 'end': 30}, {'num': 333, 'start': 55, 'end': 57}, {'num': 410, 'start': 60, 'end': 62}, {'num': 817, 'start': 65, 'end': 67}, {'num': 524, 'start': 69, 'end': 71}, {'num': 438, 'start': 81, 'end': 83}, {'num': 410, 'start': 91, 'end': 93}, {'num': 129, 'start': 95, 'end': 97}, {'num': 312, 'start': 104, 'end': 106}, {'num': 452, 'start': 112, 'end': 114}, {'num': 202, 'start': 121, 'end': 123}, {'num': 146, 'start': 134, 'end': 136}]
+row 85
+line_groups [{'num': 626, 'start': 77, 'end': 79}, {'num': 745, 'start': 87, 'end': 89}, {'num': 974, 'start': 99, 'end': 101}]
+row 86
+line_groups [{'num': 580, 'start': 0, 'end': 2}, {'num': 212, 'start': 6, 'end': 8}, {'num': 485, 'start': 17, 'end': 19}, {'num': 511, 'start': 29, 'end': 31}, {'num': 495, 'start': 37, 'end': 39}, {'num': 768, 'start': 41, 'end': 43}, {'num': 361, 'start': 45, 'end': 47}, {'num': 323, 'start': 53, 'end': 55}, {'num': 176, 'start': 72, 'end': 74}, {'num': 595, 'start': 81, 'end': 83}, {'num': 147, 'start': 115, 'end': 117}, {'num': 227, 'start': 127, 'end': 129}, {'num': 491, 'start': 134, 'end': 136}]
+row 87
+line_groups [{'num': 85, 'start': 26, 'end': 27}, {'num': 329, 'start': 63, 'end': 65}, {'num': 623, 'start': 68, 'end': 70}, {'num': 161, 'start': 90, 'end': 92}, {'num': 680, 'start': 98, 'end': 100}, {'num': 104, 'start': 104, 'end': 106}, {'num': 452, 'start': 119, 'end': 121}]
+row 88
+line_groups [{'num': 854, 'start': 0, 'end': 2}, {'num': 489, 'start': 6, 'end': 8}, {'num': 33, 'start': 13, 'end': 14}, {'num': 992, 'start': 18, 'end': 20}, {'num': 15, 'start': 35, 'end': 36}, {'num': 418, 'start': 40, 'end': 42}, {'num': 890, 'start': 45, 'end': 47}, {'num': 362, 'start': 58, 'end': 60}, {'num': 603, 'start': 73, 'end': 75}, {'num': 224, 'start': 77, 'end': 79}, {'num': 431, 'start': 85, 'end': 87}, {'num': 701, 'start': 94, 'end': 96}, {'num': 929, 'start': 110, 'end': 112}, {'num': 408, 'start': 127, 'end': 129}]
+row 89
+line_groups [{'num': 980, 'start': 28, 'end': 30}, {'num': 428, 'start': 49, 'end': 51}, {'num': 615, 'start': 81, 'end': 83}, {'num': 343, 'start': 99, 'end': 101}, {'num': 827, 'start': 114, 'end': 116}, {'num': 686, 'start': 131, 'end': 133}]
+row 90
+line_groups [{'num': 48, 'start': 0, 'end': 1}, {'num': 213, 'start': 3, 'end': 5}, {'num': 353, 'start': 24, 'end': 26}, {'num': 902, 'start': 33, 'end': 35}, {'num': 616, 'start': 42, 'end': 44}, {'num': 583, 'start': 54, 'end': 56}, {'num': 674, 'start': 60, 'end': 62}, {'num': 361, 'start': 68, 'end': 70}, {'num': 711, 'start': 75, 'end': 77}, {'num': 821, 'start': 87, 'end': 89}, {'num': 31, 'start': 94, 'end': 95}, {'num': 285, 'start': 126, 'end': 128}]
+row 91
+line_groups [{'num': 614, 'start': 7, 'end': 9}, {'num': 52, 'start': 16, 'end': 17}, {'num': 207, 'start': 19, 'end': 21}, {'num': 228, 'start': 28, 'end': 30}, {'num': 624, 'start': 99, 'end': 101}, {'num': 734, 'start': 115, 'end': 117}, {'num': 411, 'start': 130, 'end': 132}, {'num': 876, 'start': 134, 'end': 136}]
+row 92
+line_groups [{'num': 358, 'start': 35, 'end': 37}, {'num': 807, 'start': 41, 'end': 43}, {'num': 280, 'start': 49, 'end': 51}, {'num': 174, 'start': 54, 'end': 56}, {'num': 232, 'start': 60, 'end': 62}, {'num': 715, 'start': 65, 'end': 67}, {'num': 804, 'start': 86, 'end': 88}, {'num': 522, 'start': 91, 'end': 93}, {'num': 717, 'start': 111, 'end': 113}]
+row 93
+line_groups [{'num': 434, 'start': 0, 'end': 2}, {'num': 262, 'start': 7, 'end': 9}, {'num': 655, 'start': 11, 'end': 13}, {'num': 822, 'start': 15, 'end': 17}, {'num': 358, 'start': 19, 'end': 21}, {'num': 709, 'start': 24, 'end': 26}, {'num': 876, 'start': 70, 'end': 72}, {'num': 952, 'start': 78, 'end': 80}, {'num': 81, 'start': 115, 'end': 116}, {'num': 412, 'start': 118, 'end': 120}, {'num': 160, 'start': 122, 'end': 124}, {'num': 751, 'start': 129, 'end': 131}]
+row 94
+line_groups [{'num': 976, 'start': 36, 'end': 38}, {'num': 739, 'start': 46, 'end': 48}, {'num': 490, 'start': 51, 'end': 53}, {'num': 913, 'start': 55, 'end': 57}, {'num': 374, 'start': 82, 'end': 84}, {'num': 625, 'start': 87, 'end': 89}, {'num': 236, 'start': 92, 'end': 94}, {'num': 539, 'start': 97, 'end': 99}]
+row 95
+line_groups [{'num': 743, 'start': 2, 'end': 4}, {'num': 737, 'start': 24, 'end': 26}, {'num': 766, 'start': 41, 'end': 43}, {'num': 197, 'start': 64, 'end': 66}, {'num': 878, 'start': 75, 'end': 77}, {'num': 861, 'start': 104, 'end': 106}, {'num': 32, 'start': 109, 'end': 110}, {'num': 16, 'start': 126, 'end': 127}, {'num': 975, 'start': 131, 'end': 133}]
+row 96
+line_groups [{'num': 972, 'start': 16, 'end': 18}, {'num': 293, 'start': 47, 'end': 49}, {'num': 85, 'start': 52, 'end': 53}, {'num': 561, 'start': 60, 'end': 62}, {'num': 919, 'start': 70, 'end': 72}, {'num': 156, 'start': 83, 'end': 85}, {'num': 435, 'start': 99, 'end': 101}, {'num': 835, 'start': 117, 'end': 119}, {'num': 3, 'start': 129, 'end': 129}]
+row 97
+line_groups [{'num': 823, 'start': 8, 'end': 10}, {'num': 690, 'start': 12, 'end': 14}, {'num': 747, 'start': 21, 'end': 23}, {'num': 799, 'start': 39, 'end': 41}, {'num': 241, 'start': 91, 'end': 93}, {'num': 558, 'start': 103, 'end': 105}, {'num': 459, 'start': 121, 'end': 123}]
+row 98
+line_groups [{'num': 552, 'start': 4, 'end': 6}, {'num': 701, 'start': 17, 'end': 19}, {'num': 579, 'start': 45, 'end': 47}, {'num': 187, 'start': 55, 'end': 57}, {'num': 691, 'start': 61, 'end': 63}, {'num': 694, 'start': 76, 'end': 78}, {'num': 980, 'start': 80, 'end': 82}, {'num': 244, 'start': 108, 'end': 110}, {'num': 842, 'start': 129, 'end': 131}]
+row 99
+line_groups [{'num': 57, 'start': 1, 'end': 2}, {'num': 687, 'start': 10, 'end': 12}, {'num': 110, 'start': 34, 'end': 36}, {'num': 873, 'start': 38, 'end': 40}, {'num': 469, 'start': 65, 'end': 67}, {'num': 217, 'start': 69, 'end': 71}, {'num': 573, 'start': 92, 'end': 94}, {'num': 324, 'start': 97, 'end': 99}, {'num': 308, 'start': 101, 'end': 103}, {'num': 855, 'start': 123, 'end': 125}, {'num': 553, 'start': 133, 'end': 135}]
+row 100
+line_groups [{'num': 551, 'start': 6, 'end': 8}, {'num': 142, 'start': 75, 'end': 77}, {'num': 771, 'start': 85, 'end': 87}, {'num': 902, 'start': 105, 'end': 107}, {'num': 606, 'start': 127, 'end': 129}]
+row 101
+line_groups [{'num': 990, 'start': 10, 'end': 12}, {'num': 869, 'start': 21, 'end': 23}, {'num': 8, 'start': 32, 'end': 32}, {'num': 477, 'start': 41, 'end': 43}, {'num': 330, 'start': 56, 'end': 58}, {'num': 37, 'start': 80, 'end': 81}, {'num': 408, 'start': 89, 'end': 91}, {'num': 751, 'start': 94, 'end': 96}, {'num': 239, 'start': 110, 'end': 112}, {'num': 362, 'start': 123, 'end': 125}]
+row 102
+line_groups [{'num': 994, 'start': 3, 'end': 5}, {'num': 984, 'start': 26, 'end': 28}, {'num': 194, 'start': 35, 'end': 37}, {'num': 972, 'start': 69, 'end': 71}, {'num': 967, 'start': 73, 'end': 75}, {'num': 150, 'start': 83, 'end': 85}, {'num': 433, 'start': 101, 'end': 103}, {'num': 517, 'start': 106, 'end': 108}, {'num': 947, 'start': 133, 'end': 135}]
+row 103
+line_groups [{'num': 189, 'start': 9, 'end': 11}, {'num': 501, 'start': 14, 'end': 16}, {'num': 334, 'start': 18, 'end': 20}, {'num': 56, 'start': 32, 'end': 33}, {'num': 531, 'start': 53, 'end': 55}, {'num': 846, 'start': 59, 'end': 61}, {'num': 562, 'start': 65, 'end': 67}, {'num': 477, 'start': 78, 'end': 80}, {'num': 19, 'start': 112, 'end': 113}, {'num': 396, 'start': 122, 'end': 124}, {'num': 570, 'start': 128, 'end': 130}]
+row 104
+line_groups [{'num': 761, 'start': 22, 'end': 24}, {'num': 243, 'start': 39, 'end': 41}, {'num': 692, 'start': 47, 'end': 49}, {'num': 985, 'start': 71, 'end': 73}, {'num': 991, 'start': 85, 'end': 87}, {'num': 320, 'start': 97, 'end': 99}, {'num': 585, 'start': 132, 'end': 134}]
+row 105
+line_groups [{'num': 590, 'start': 4, 'end': 6}, {'num': 993, 'start': 26, 'end': 28}, {'num': 554, 'start': 30, 'end': 32}, {'num': 132, 'start': 53, 'end': 55}, {'num': 623, 'start': 59, 'end': 61}, {'num': 429, 'start': 66, 'end': 68}, {'num': 549, 'start': 77, 'end': 79}, {'num': 31, 'start': 82, 'end': 83}, {'num': 643, 'start': 92, 'end': 94}, {'num': 134, 'start': 114, 'end': 116}, {'num': 237, 'start': 118, 'end': 120}, {'num': 50, 'start': 129, 'end': 130}]
+row 106
+line_groups [{'num': 385, 'start': 13, 'end': 15}, {'num': 538, 'start': 17, 'end': 19}, {'num': 826, 'start': 36, 'end': 38}, {'num': 644, 'start': 87, 'end': 89}, {'num': 151, 'start': 96, 'end': 98}, {'num': 919, 'start': 100, 'end': 102}, {'num': 733, 'start': 109, 'end': 111}, {'num': 73, 'start': 125, 'end': 126}, {'num': 848, 'start': 132, 'end': 134}]
+row 107
+line_groups [{'num': 477, 'start': 1, 'end': 3}, {'num': 871, 'start': 7, 'end': 9}, {'num': 5, 'start': 24, 'end': 24}, {'num': 68, 'start': 29, 'end': 30}, {'num': 841, 'start': 32, 'end': 34}, {'num': 80, 'start': 41, 'end': 42}, {'num': 405, 'start': 51, 'end': 53}, {'num': 70, 'start': 55, 'end': 56}, {'num': 898, 'start': 58, 'end': 60}, {'num': 25, 'start': 76, 'end': 77}, {'num': 787, 'start': 91, 'end': 93}, {'num': 368, 'start': 104, 'end': 106}]
+row 108
+line_groups [{'num': 6, 'start': 14, 'end': 14}, {'num': 370, 'start': 44, 'end': 46}, {'num': 186, 'start': 85, 'end': 87}, {'num': 146, 'start': 97, 'end': 99}, {'num': 447, 'start': 111, 'end': 113}, {'num': 287, 'start': 121, 'end': 123}, {'num': 611, 'start': 136, 'end': 138}]
+row 109
+line_groups [{'num': 443, 'start': 0, 'end': 2}, {'num': 893, 'start': 6, 'end': 8}, {'num': 20, 'start': 23, 'end': 24}, {'num': 108, 'start': 32, 'end': 34}, {'num': 43, 'start': 38, 'end': 39}, {'num': 637, 'start': 50, 'end': 52}, {'num': 396, 'start': 59, 'end': 61}, {'num': 596, 'start': 65, 'end': 67}, {'num': 64, 'start': 80, 'end': 81}, {'num': 505, 'start': 90, 'end': 92}, {'num': 141, 'start': 106, 'end': 108}, {'num': 543, 'start': 130, 'end': 132}]
+row 110
+line_groups [{'num': 197, 'start': 17, 'end': 19}, {'num': 244, 'start': 26, 'end': 28}, {'num': 530, 'start': 46, 'end': 48}, {'num': 334, 'start': 54, 'end': 56}, {'num': 335, 'start': 69, 'end': 71}, {'num': 745, 'start': 74, 'end': 76}, {'num': 99, 'start': 97, 'end': 98}, {'num': 182, 'start': 101, 'end': 103}, {'num': 645, 'start': 118, 'end': 120}, {'num': 963, 'start': 122, 'end': 124}]
+row 111
+line_groups [{'num': 593, 'start': 33, 'end': 35}, {'num': 704, 'start': 38, 'end': 40}, {'num': 211, 'start': 64, 'end': 66}, {'num': 571, 'start': 88, 'end': 90}, {'num': 178, 'start': 93, 'end': 95}, {'num': 476, 'start': 130, 'end': 132}]
+row 112
+line_groups [{'num': 812, 'start': 6, 'end': 8}, {'num': 17, 'start': 11, 'end': 12}, {'num': 617, 'start': 14, 'end': 16}, {'num': 249, 'start': 24, 'end': 26}, {'num': 327, 'start': 29, 'end': 31}, {'num': 527, 'start': 43, 'end': 45}, {'num': 15, 'start': 48, 'end': 49}, {'num': 238, 'start': 58, 'end': 60}, {'num': 926, 'start': 73, 'end': 75}, {'num': 564, 'start': 77, 'end': 79}, {'num': 260, 'start': 110, 'end': 112}, {'num': 715, 'start': 124, 'end': 126}, {'num': 793, 'start': 137, 'end': 139}]
+row 113
+line_groups [{'num': 826, 'start': 20, 'end': 22}, {'num': 685, 'start': 95, 'end': 97}, {'num': 954, 'start': 120, 'end': 122}, {'num': 423, 'start': 128, 'end': 130}]
+row 114
+line_groups [{'num': 796, 'start': 13, 'end': 15}, {'num': 260, 'start': 31, 'end': 33}, {'num': 946, 'start': 36, 'end': 38}, {'num': 848, 'start': 44, 'end': 46}, {'num': 902, 'start': 50, 'end': 52}, {'num': 285, 'start': 66, 'end': 68}, {'num': 136, 'start': 75, 'end': 77}, {'num': 211, 'start': 82, 'end': 84}, {'num': 258, 'start': 103, 'end': 105}, {'num': 874, 'start': 107, 'end': 109}, {'num': 332, 'start': 115, 'end': 117}]
+row 115
+line_groups [{'num': 829, 'start': 5, 'end': 7}, {'num': 348, 'start': 17, 'end': 19}, {'num': 539, 'start': 24, 'end': 26}, {'num': 623, 'start': 54, 'end': 56}, {'num': 252, 'start': 88, 'end': 90}, {'num': 253, 'start': 93, 'end': 95}, {'num': 86, 'start': 98, 'end': 99}, {'num': 599, 'start': 111, 'end': 113}, {'num': 592, 'start': 119, 'end': 121}, {'num': 672, 'start': 129, 'end': 131}, {'num': 232, 'start': 134, 'end': 136}]
+row 116
+line_groups [{'num': 752, 'start': 12, 'end': 14}, {'num': 375, 'start': 34, 'end': 36}, {'num': 859, 'start': 49, 'end': 51}, {'num': 926, 'start': 58, 'end': 60}, {'num': 182, 'start': 62, 'end': 64}, {'num': 733, 'start': 69, 'end': 71}, {'num': 241, 'start': 78, 'end': 80}, {'num': 276, 'start': 102, 'end': 104}, {'num': 762, 'start': 115, 'end': 117}]
+row 117
+line_groups [{'num': 482, 'start': 29, 'end': 31}, {'num': 346, 'start': 43, 'end': 45}, {'num': 374, 'start': 54, 'end': 56}, {'num': 493, 'start': 97, 'end': 99}, {'num': 322, 'start': 106, 'end': 108}, {'num': 175, 'start': 135, 'end': 137}]
+row 118
+line_groups [{'num': 793, 'start': 15, 'end': 17}, {'num': 532, 'start': 21, 'end': 23}, {'num': 530, 'start': 33, 'end': 35}, {'num': 509, 'start': 58, 'end': 60}, {'num': 861, 'start': 62, 'end': 64}, {'num': 134, 'start': 72, 'end': 74}, {'num': 353, 'start': 83, 'end': 85}, {'num': 94, 'start': 120, 'end': 121}]
+row 119
+line_groups [{'num': 480, 'start': 0, 'end': 2}, {'num': 761, 'start': 7, 'end': 9}, {'num': 768, 'start': 43, 'end': 45}, {'num': 790, 'start': 48, 'end': 50}, {'num': 296, 'start': 67, 'end': 69}, {'num': 311, 'start': 87, 'end': 89}, {'num': 340, 'start': 98, 'end': 100}, {'num': 344, 'start': 104, 'end': 106}, {'num': 989, 'start': 112, 'end': 114}, {'num': 142, 'start': 116, 'end': 118}, {'num': 411, 'start': 129, 'end': 131}]
+row 120
+line_groups [{'num': 208, 'start': 13, 'end': 15}, {'num': 300, 'start': 23, 'end': 25}, {'num': 506, 'start': 39, 'end': 41}, {'num': 267, 'start': 54, 'end': 56}, {'num': 918, 'start': 62, 'end': 64}, {'num': 204, 'start': 77, 'end': 79}, {'num': 606, 'start': 92, 'end': 94}, {'num': 397, 'start': 122, 'end': 124}, {'num': 257, 'start': 136, 'end': 138}]
+row 121
+line_groups [{'num': 636, 'start': 45, 'end': 47}, {'num': 476, 'start': 50, 'end': 52}, {'num': 109, 'start': 69, 'end': 71}, {'num': 115, 'start': 104, 'end': 106}, {'num': 91, 'start': 110, 'end': 111}, {'num': 823, 'start': 118, 'end': 120}, {'num': 929, 'start': 129, 'end': 131}]
+row 122
+line_groups [{'num': 595, 'start': 3, 'end': 5}, {'num': 313, 'start': 14, 'end': 16}, {'num': 849, 'start': 22, 'end': 24}, {'num': 452, 'start': 26, 'end': 28}, {'num': 568, 'start': 35, 'end': 37}, {'num': 802, 'start': 56, 'end': 58}, {'num': 915, 'start': 79, 'end': 81}, {'num': 730, 'start': 85, 'end': 87}, {'num': 138, 'start': 92, 'end': 94}, {'num': 30, 'start': 96, 'end': 97}, {'num': 455, 'start': 100, 'end': 102}, {'num': 589, 'start': 124, 'end': 126}]
+row 123
+line_groups [{'num': 290, 'start': 31, 'end': 33}, {'num': 147, 'start': 46, 'end': 48}, {'num': 492, 'start': 64, 'end': 66}, {'num': 83, 'start': 69, 'end': 70}, {'num': 12, 'start': 75, 'end': 76}, {'num': 17, 'start': 134, 'end': 135}]
+row 124
+line_groups [{'num': 970, 'start': 0, 'end': 2}, {'num': 701, 'start': 14, 'end': 16}, {'num': 264, 'start': 22, 'end': 24}, {'num': 113, 'start': 42, 'end': 44}, {'num': 916, 'start': 52, 'end': 54}, {'num': 620, 'start': 78, 'end': 80}, {'num': 809, 'start': 93, 'end': 95}, {'num': 788, 'start': 105, 'end': 107}, {'num': 446, 'start': 118, 'end': 120}, {'num': 904, 'start': 129, 'end': 131}]
+row 125
+line_groups [{'num': 221, 'start': 6, 'end': 8}, {'num': 112, 'start': 10, 'end': 12}, {'num': 610, 'start': 27, 'end': 29}, {'num': 799, 'start': 48, 'end': 50}, {'num': 713, 'start': 63, 'end': 65}, {'num': 657, 'start': 74, 'end': 76}, {'num': 325, 'start': 84, 'end': 86}, {'num': 551, 'start': 113, 'end': 115}, {'num': 615, 'start': 135, 'end': 137}]
+row 126
+line_groups [{'num': 295, 'start': 1, 'end': 3}, {'num': 852, 'start': 19, 'end': 21}, {'num': 986, 'start': 37, 'end': 39}, {'num': 620, 'start': 105, 'end': 107}, {'num': 665, 'start': 118, 'end': 120}, {'num': 930, 'start': 126, 'end': 128}]
+row 127
+line_groups [{'num': 785, 'start': 5, 'end': 7}, {'num': 542, 'start': 15, 'end': 17}, {'num': 732, 'start': 32, 'end': 34}, {'num': 583, 'start': 47, 'end': 49}, {'num': 424, 'start': 74, 'end': 76}, {'num': 702, 'start': 86, 'end': 88}, {'num': 367, 'start': 90, 'end': 92}, {'num': 993, 'start': 95, 'end': 97}, {'num': 386, 'start': 110, 'end': 112}]
+row 128
+line_groups [{'num': 114, 'start': 20, 'end': 22}, {'num': 704, 'start': 27, 'end': 29}, {'num': 377, 'start': 40, 'end': 42}, {'num': 633, 'start': 54, 'end': 56}, {'num': 730, 'start': 69, 'end': 71}, {'num': 241, 'start': 78, 'end': 80}, {'num': 396, 'start': 102, 'end': 104}, {'num': 372, 'start': 116, 'end': 118}, {'num': 135, 'start': 125, 'end': 127}, {'num': 806, 'start': 130, 'end': 132}]
+row 129
+line_groups [{'num': 122, 'start': 7, 'end': 9}, {'num': 963, 'start': 16, 'end': 18}, {'num': 509, 'start': 62, 'end': 64}, {'num': 50, 'start': 90, 'end': 91}, {'num': 280, 'start': 97, 'end': 99}, {'num': 672, 'start': 109, 'end': 111}, {'num': 538, 'start': 121, 'end': 123}, {'num': 619, 'start': 135, 'end': 137}]
+row 130
+line_groups [{'num': 957, 'start': 21, 'end': 23}, {'num': 542, 'start': 29, 'end': 31}, {'num': 731, 'start': 35, 'end': 37}, {'num': 941, 'start': 40, 'end': 42}, {'num': 59, 'start': 55, 'end': 56}, {'num': 571, 'start': 67, 'end': 69}, {'num': 554, 'start': 71, 'end': 73}, {'num': 214, 'start': 78, 'end': 80}, {'num': 108, 'start': 85, 'end': 87}, {'num': 104, 'start': 105, 'end': 107}]
+row 131
+line_groups [{'num': 337, 'start': 50, 'end': 52}, {'num': 873, 'start': 128, 'end': 130}, {'num': 563, 'start': 133, 'end': 135}]
+row 132
+line_groups [{'num': 771, 'start': 4, 'end': 6}, {'num': 500, 'start': 9, 'end': 11}, {'num': 868, 'start': 20, 'end': 22}, {'num': 213, 'start': 30, 'end': 32}, {'num': 902, 'start': 39, 'end': 41}, {'num': 456, 'start': 46, 'end': 48}, {'num': 255, 'start': 69, 'end': 71}, {'num': 377, 'start': 77, 'end': 79}, {'num': 781, 'start': 81, 'end': 83}, {'num': 348, 'start': 91, 'end': 93}, {'num': 133, 'start': 110, 'end': 112}, {'num': 367, 'start': 119, 'end': 121}, {'num': 696, 'start': 123, 'end': 125}]
+row 133
+line_groups [{'num': 25, 'start': 16, 'end': 17}, {'num': 784, 'start': 26, 'end': 28}, {'num': 735, 'start': 59, 'end': 61}, {'num': 413, 'start': 64, 'end': 66}, {'num': 108, 'start': 73, 'end': 75}, {'num': 645, 'start': 106, 'end': 108}, {'num': 8, 'start': 115, 'end': 115}, {'num': 185, 'start': 128, 'end': 130}]
+row 134
+line_groups [{'num': 603, 'start': 2, 'end': 4}, {'num': 389, 'start': 6, 'end': 8}, {'num': 956, 'start': 11, 'end': 13}, {'num': 636, 'start': 35, 'end': 37}, {'num': 866, 'start': 41, 'end': 43}, {'num': 338, 'start': 49, 'end': 51}, {'num': 25, 'start': 56, 'end': 57}, {'num': 667, 'start': 111, 'end': 113}, {'num': 296, 'start': 136, 'end': 138}]
+row 135
+line_groups [{'num': 544, 'start': 16, 'end': 18}, {'num': 510, 'start': 24, 'end': 26}, {'num': 418, 'start': 29, 'end': 31}, {'num': 379, 'start': 64, 'end': 66}, {'num': 478, 'start': 68, 'end': 70}, {'num': 961, 'start': 76, 'end': 78}, {'num': 410, 'start': 92, 'end': 94}, {'num': 413, 'start': 107, 'end': 109}, {'num': 912, 'start': 117, 'end': 119}, {'num': 469, 'start': 122, 'end': 124}, {'num': 758, 'start': 127, 'end': 129}, {'num': 733, 'start': 131, 'end': 133}]
+row 136
+line_groups [{'num': 798, 'start': 0, 'end': 2}, {'num': 565, 'start': 8, 'end': 10}, {'num': 793, 'start': 12, 'end': 14}, {'num': 98, 'start': 33, 'end': 34}, {'num': 447, 'start': 40, 'end': 42}, {'num': 291, 'start': 55, 'end': 57}, {'num': 244, 'start': 80, 'end': 82}, {'num': 491, 'start': 102, 'end': 104}]
+row 137
+line_groups [{'num': 546, 'start': 4, 'end': 6}, {'num': 454, 'start': 18, 'end': 20}, {'num': 120, 'start': 24, 'end': 26}, {'num': 683, 'start': 29, 'end': 31}, {'num': 923, 'start': 45, 'end': 47}, {'num': 865, 'start': 61, 'end': 63}, {'num': 574, 'start': 65, 'end': 67}, {'num': 276, 'start': 74, 'end': 76}, {'num': 56, 'start': 85, 'end': 86}, {'num': 57, 'start': 93, 'end': 94}, {'num': 659, 'start': 96, 'end': 98}, {'num': 512, 'start': 126, 'end': 128}]
+row 138
+line_groups [{'num': 329, 'start': 12, 'end': 14}, {'num': 606, 'start': 52, 'end': 54}, {'num': 599, 'start': 56, 'end': 58}, {'num': 927, 'start': 79, 'end': 81}, {'num': 674, 'start': 102, 'end': 104}, {'num': 723, 'start': 116, 'end': 118}, {'num': 974, 'start': 121, 'end': 123}]
+row 139
+line_groups [{'num': 378, 'start': 16, 'end': 18}, {'num': 911, 'start': 21, 'end': 23}, {'num': 987, 'start': 32, 'end': 34}, {'num': 606, 'start': 40, 'end': 42}, {'num': 899, 'start': 65, 'end': 67}, {'num': 73, 'start': 69, 'end': 70}, {'num': 489, 'start': 75, 'end': 77}, {'num': 848, 'start': 84, 'end': 86}, {'num': 664, 'start': 108, 'end': 110}, {'num': 388, 'start': 126, 'end': 128}, {'num': 589, 'start': 135, 'end': 137}]
+valid_nums [46, 809, 923, 778, 793, 238, 712, 515, 658, 823, 835, 710, 749, 134, 812, 925, 276, 386, 13, 341, 481, 211, 92, 832, 105, 797, 932, 152, 123, 540, 6, 271, 228, 79, 733, 27, 586, 883, 172, 88, 340, 55, 465, 398, 585, 812, 347, 374, 462, 166, 910, 675, 149, 653, 80, 680, 876, 864, 259, 124, 799, 608, 98, 951, 615, 151, 802, 680, 857, 901, 3, 637, 493, 926, 636, 350, 881, 699, 458, 474, 409, 246, 336, 922, 370, 581, 335, 608, 11, 928, 50, 978, 453, 22, 298, 711, 794, 267, 44, 460, 534, 797, 61, 272, 874, 892, 707, 230, 72, 537, 405, 309, 221, 872, 75, 237, 208, 176, 239, 172, 795, 670, 9, 504, 717, 908, 975, 130, 711, 54, 494, 333, 882, 282, 927, 555, 983, 479, 915, 670, 524, 866, 862, 72, 901, 995, 71, 33, 350, 796, 612, 463, 399, 8, 951, 886, 41, 606, 680, 787, 605, 892, 219, 972, 846, 377, 644, 718, 355, 688, 145, 576, 974, 148, 87, 500, 534, 986, 576, 302, 504, 652, 104, 502, 691, 423, 286, 218, 882, 579, 320, 48, 393, 202, 758, 951, 943, 928, 310, 295, 133, 698, 331, 859, 91, 815, 822, 39, 833, 749, 591, 455, 30, 117, 727, 256, 439, 19, 478, 595, 599, 442, 997, 187, 596, 141, 597, 792, 780, 266, 713, 783, 564, 839, 255, 636, 749, 963, 926, 39, 274, 228, 812, 487, 348, 364, 936, 708, 63, 212, 191, 591, 906, 591, 127, 491, 141, 339, 483, 204, 871, 465, 890, 997, 675, 465, 372, 875, 534, 209, 648, 139, 7, 854, 920, 968, 384, 830, 632, 273, 132, 793, 207, 952, 66, 162, 35, 22, 234, 468, 750, 15, 161, 93, 818, 580, 449, 125, 129, 723, 365, 678, 21, 547, 701, 845, 634, 679, 176, 979, 848, 107, 296, 69, 442, 960, 311, 519, 58, 248, 582, 403, 929, 486, 390, 396, 279, 718, 449, 794, 251, 980, 476, 292, 188, 112, 315, 529, 860, 114, 743, 368, 776, 195, 850, 943, 483, 625, 916, 201, 426, 452, 579, 786, 961, 15, 488, 373, 830, 947, 645, 189, 551, 99, 388, 578, 497, 221, 720, 885, 588, 692, 903, 81, 615, 202, 355, 997, 259, 439, 483, 596, 490, 415, 683, 371, 644, 964, 796, 161, 884, 458, 247, 145, 895, 62, 267, 16, 998, 173, 511, 552, 847, 651, 108, 975, 444, 560, 149, 173, 365, 986, 271, 182, 26, 84, 471, 696, 736, 107, 974, 614, 930, 800, 155, 235, 446, 286, 822, 199, 670, 882, 20, 282, 641, 703, 887, 513, 271, 819, 100, 933, 649, 407, 922, 681, 426, 112, 819, 94, 689, 652, 933, 858, 711, 437, 540, 740, 500, 184, 386, 668, 719, 695, 824, 882, 811, 771, 142, 867, 299, 143, 425, 120, 401, 75, 551, 44, 141, 963, 209, 913, 871, 904, 365, 244, 495, 19, 971, 883, 225, 967, 44, 182, 830, 190, 487, 93, 577, 456, 370, 52, 396, 927, 887, 268, 517, 753, 493, 521, 680, 58, 879, 951, 136, 585, 69, 25, 923, 5, 624, 826, 407, 772, 628, 293, 420, 140, 728, 815, 196, 470, 403, 807, 99, 443, 732, 795, 35, 789, 931, 52, 727, 477, 682, 118, 539, 844, 863, 773, 479, 585, 817, 16, 244, 826, 427, 694, 834, 949, 205, 899, 49, 971, 331, 289, 661, 400, 57, 711, 873, 668, 94, 42, 557, 425, 267, 993, 49, 647, 569, 1, 823, 579, 153, 65, 263, 320, 243, 626, 128, 215, 684, 519, 247, 320, 827, 954, 378, 553, 434, 208, 88, 387, 402, 16, 507, 403, 272, 496, 750, 12, 555, 454, 322, 954, 529, 25, 651, 43, 121, 709, 269, 410, 163, 608, 451, 999, 292, 867, 595, 88, 990, 473, 406, 285, 825, 464, 378, 835, 570, 484, 550, 162, 812, 37, 693, 385, 934, 758, 413, 265, 691, 559, 807, 824, 608, 373, 580, 506, 852, 786, 932, 194, 688, 713, 410, 817, 438, 410, 129, 312, 452, 202, 146, 626, 745, 974, 580, 212, 485, 511, 495, 768, 361, 323, 176, 595, 147, 227, 491, 85, 329, 623, 161, 680, 104, 452, 854, 489, 33, 992, 15, 418, 890, 362, 603, 224, 431, 701, 408, 980, 428, 343, 827, 686, 213, 353, 902, 616, 583, 674, 361, 711, 821, 31, 285, 614, 52, 207, 228, 624, 734, 411, 876, 358, 807, 280, 174, 232, 715, 522, 717, 262, 822, 358, 709, 876, 952, 81, 412, 976, 739, 490, 913, 374, 625, 236, 539, 737, 766, 197, 878, 861, 32, 16, 972, 293, 85, 561, 919, 156, 435, 3, 823, 690, 747, 241, 558, 459, 552, 701, 579, 187, 691, 694, 980, 244, 842, 687, 110, 873, 469, 217, 573, 324, 308, 855, 551, 771, 902, 606, 990, 869, 8, 477, 330, 37, 408, 751, 239, 362, 994, 194, 972, 967, 150, 433, 947, 189, 501, 334, 56, 531, 846, 562, 477, 19, 396, 570, 761, 243, 692, 985, 991, 320, 585, 993, 554, 132, 623, 429, 31, 643, 237, 50, 385, 538, 826, 644, 151, 919, 733, 73, 848, 477, 871, 5, 68, 841, 80, 405, 70, 898, 25, 787, 368, 6, 370, 186, 146, 447, 287, 611, 443, 893, 20, 108, 43, 637, 596, 64, 505, 141, 197, 244, 334, 335, 99, 963, 593, 704, 211, 571, 476, 812, 17, 617, 249, 327, 527, 238, 926, 564, 260, 715, 793, 685, 954, 423, 796, 260, 946, 848, 902, 285, 136, 211, 258, 874, 332, 829, 348, 539, 623, 252, 253, 86, 592, 672, 232, 375, 859, 926, 182, 733, 241, 276, 762, 346, 374, 493, 322, 175, 793, 532, 509, 861, 94, 480, 761, 768, 790, 296, 311, 340, 344, 989, 142, 411, 208, 300, 506, 267, 918, 204, 606, 397, 257, 636, 476, 109, 115, 91, 823, 929, 313, 849, 452, 568, 802, 915, 730, 138, 30, 455, 589, 290, 492, 12, 17, 970, 701, 264, 113, 620, 809, 788, 446, 904, 221, 112, 610, 799, 713, 551, 615, 295, 852, 986, 620, 665, 930, 785, 732, 583, 424, 702, 367, 993, 114, 704, 377, 633, 730, 241, 396, 372, 135, 806, 122, 509, 50, 280, 672, 538, 619, 957, 542, 731, 941, 59, 571, 554, 108, 104, 337, 873, 563, 771, 500, 868, 213, 456, 255, 377, 781, 348, 133, 367, 696, 25, 784, 735, 413, 108, 8, 185, 603, 389, 956, 636, 866, 25, 667, 296, 544, 510, 418, 379, 478, 961, 410, 413, 912, 469, 758, 733, 798, 565, 793, 98, 447, 291, 491, 546, 454, 683, 923, 865, 276, 56, 57, 659, 512, 329, 606, 599, 927, 674, 723, 974, 378, 489, 848, 664], sum(valid_nums) 557705

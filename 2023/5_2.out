@@ -1,0 +1,231 @@
+seed_pairs [(79, 13), (55, 12)]
+
+remain [(79, 13)], result []
+running current_remain_pair: (79, 13)
+running rule (50, 98, 2) for (79, 13)
+[a, no overlap]
+ > current_remain_pair (79, 13), rule (50, 98, 2), after rule partitioning - result: [], remain: []
+
+running rule (52, 50, 48) for (79, 13)
+[b]
+ > current_remain_pair (79, 13), rule (52, 50, 48), after rule partitioning - result: [(81, 13)], remain: []
+
+running current_remain_pair: (81, 13)
+running rule (0, 15, 37) for (81, 13)
+[a, no overlap]
+ > current_remain_pair (81, 13), rule (0, 15, 37), after rule partitioning - result: [], remain: []
+
+running rule (37, 52, 2) for (81, 13)
+[a, no overlap]
+ > current_remain_pair (81, 13), rule (37, 52, 2), after rule partitioning - result: [], remain: []
+
+running rule (39, 0, 15) for (81, 13)
+[a, no overlap]
+ > current_remain_pair (81, 13), rule (39, 0, 15), after rule partitioning - result: [], remain: []
+
+running current_remain_pair: (81, 13)
+running rule (49, 53, 8) for (81, 13)
+[a, no overlap]
+ > current_remain_pair (81, 13), rule (49, 53, 8), after rule partitioning - result: [], remain: []
+
+running rule (0, 11, 42) for (81, 13)
+[a, no overlap]
+ > current_remain_pair (81, 13), rule (0, 11, 42), after rule partitioning - result: [], remain: []
+
+running rule (42, 0, 7) for (81, 13)
+[a, no overlap]
+ > current_remain_pair (81, 13), rule (42, 0, 7), after rule partitioning - result: [], remain: []
+
+running rule (57, 7, 4) for (81, 13)
+[a, no overlap]
+ > current_remain_pair (81, 13), rule (57, 7, 4), after rule partitioning - result: [], remain: []
+
+running current_remain_pair: (81, 13)
+running rule (88, 18, 7) for (81, 13)
+[a, no overlap]
+ > current_remain_pair (81, 13), rule (88, 18, 7), after rule partitioning - result: [], remain: []
+
+running rule (18, 25, 70) for (81, 13)
+[b]
+ > current_remain_pair (81, 13), rule (18, 25, 70), after rule partitioning - result: [(74, 13)], remain: []
+
+running current_remain_pair: (74, 13)
+running rule (45, 77, 23) for (74, 13)
+[d]
+running current_remain_pair: (74, 3)
+running rule (45, 77, 23) for (74, 3)
+[a, no overlap]
+ > current_remain_pair (74, 3), rule (45, 77, 23), after rule partitioning - result: [(45, 10)], remain: []
+
+running rule (81, 45, 19) for (74, 3)
+[a, no overlap]
+ > current_remain_pair (74, 3), rule (81, 45, 19), after rule partitioning - result: [(45, 10)], remain: []
+
+running rule (68, 64, 13) for (74, 3)
+[b]
+ > current_remain_pair (74, 3), rule (68, 64, 13), after rule partitioning - result: [(45, 10), (78, 3)], remain: []
+
+running current_remain_pair: (78, 3)
+running rule (0, 69, 1) for (78, 3)
+[a, no overlap]
+ > current_remain_pair (78, 3), rule (0, 69, 1), after rule partitioning - result: [], remain: [(45, 10)]
+
+running rule (1, 0, 69) for (78, 3)
+[a, no overlap]
+ > current_remain_pair (78, 3), rule (1, 0, 69), after rule partitioning - result: [], remain: [(45, 10)]
+
+running current_remain_pair: (45, 10)
+running rule (0, 69, 1) for (45, 10)
+[a, no overlap]
+ > current_remain_pair (45, 10), rule (0, 69, 1), after rule partitioning - result: [(78, 3)], remain: []
+
+running rule (1, 0, 69) for (45, 10)
+[b]
+ > current_remain_pair (45, 10), rule (1, 0, 69), after rule partitioning - result: [(78, 3), (46, 10)], remain: []
+
+running current_remain_pair: (46, 10)
+running rule (60, 56, 37) for (46, 10)
+[a, no overlap]
+ > current_remain_pair (46, 10), rule (60, 56, 37), after rule partitioning - result: [], remain: [(78, 3)]
+
+running rule (56, 93, 4) for (46, 10)
+[a, no overlap]
+ > current_remain_pair (46, 10), rule (56, 93, 4), after rule partitioning - result: [], remain: [(78, 3)]
+
+running current_remain_pair: (78, 3)
+running rule (60, 56, 37) for (78, 3)
+[b]
+ > current_remain_pair (78, 3), rule (60, 56, 37), after rule partitioning - result: [(46, 10), (82, 3)], remain: []
+
+remain [(55, 12)], result []
+running current_remain_pair: (55, 12)
+running rule (50, 98, 2) for (55, 12)
+[a, no overlap]
+ > current_remain_pair (55, 12), rule (50, 98, 2), after rule partitioning - result: [], remain: []
+
+running rule (52, 50, 48) for (55, 12)
+[b]
+ > current_remain_pair (55, 12), rule (52, 50, 48), after rule partitioning - result: [(57, 12)], remain: []
+
+running current_remain_pair: (57, 12)
+running rule (0, 15, 37) for (57, 12)
+[a, no overlap]
+ > current_remain_pair (57, 12), rule (0, 15, 37), after rule partitioning - result: [], remain: []
+
+running rule (37, 52, 2) for (57, 12)
+[a, no overlap]
+ > current_remain_pair (57, 12), rule (37, 52, 2), after rule partitioning - result: [], remain: []
+
+running rule (39, 0, 15) for (57, 12)
+[a, no overlap]
+ > current_remain_pair (57, 12), rule (39, 0, 15), after rule partitioning - result: [], remain: []
+
+running current_remain_pair: (57, 12)
+running rule (49, 53, 8) for (57, 12)
+[e]
+running current_remain_pair: (61, 8)
+running rule (49, 53, 8) for (61, 8)
+[a, no overlap]
+ > current_remain_pair (61, 8), rule (49, 53, 8), after rule partitioning - result: [(53, 4)], remain: []
+
+running rule (0, 11, 42) for (61, 8)
+[a, no overlap]
+ > current_remain_pair (61, 8), rule (0, 11, 42), after rule partitioning - result: [(53, 4)], remain: []
+
+running rule (42, 0, 7) for (61, 8)
+[a, no overlap]
+ > current_remain_pair (61, 8), rule (42, 0, 7), after rule partitioning - result: [(53, 4)], remain: []
+
+running rule (57, 7, 4) for (61, 8)
+[a, no overlap]
+ > current_remain_pair (61, 8), rule (57, 7, 4), after rule partitioning - result: [(53, 4)], remain: []
+
+running current_remain_pair: (61, 8)
+running rule (88, 18, 7) for (61, 8)
+[a, no overlap]
+ > current_remain_pair (61, 8), rule (88, 18, 7), after rule partitioning - result: [], remain: [(53, 4)]
+
+running rule (18, 25, 70) for (61, 8)
+[b]
+ > current_remain_pair (61, 8), rule (18, 25, 70), after rule partitioning - result: [(54, 8)], remain: [(53, 4)]
+
+running current_remain_pair: (53, 4)
+running rule (88, 18, 7) for (53, 4)
+[a, no overlap]
+ > current_remain_pair (53, 4), rule (88, 18, 7), after rule partitioning - result: [(54, 8)], remain: []
+
+running rule (18, 25, 70) for (53, 4)
+[b]
+ > current_remain_pair (53, 4), rule (18, 25, 70), after rule partitioning - result: [(54, 8), (46, 4)], remain: []
+
+running current_remain_pair: (46, 4)
+running rule (45, 77, 23) for (46, 4)
+[a, no overlap]
+ > current_remain_pair (46, 4), rule (45, 77, 23), after rule partitioning - result: [], remain: [(54, 8)]
+
+running rule (81, 45, 19) for (46, 4)
+[b]
+ > current_remain_pair (46, 4), rule (81, 45, 19), after rule partitioning - result: [(82, 4)], remain: [(54, 8)]
+
+running current_remain_pair: (54, 8)
+running rule (45, 77, 23) for (54, 8)
+[a, no overlap]
+ > current_remain_pair (54, 8), rule (45, 77, 23), after rule partitioning - result: [(82, 4)], remain: []
+
+running rule (81, 45, 19) for (54, 8)
+[b]
+ > current_remain_pair (54, 8), rule (81, 45, 19), after rule partitioning - result: [(82, 4), (90, 8)], remain: []
+
+running current_remain_pair: (90, 8)
+running rule (0, 69, 1) for (90, 8)
+[a, no overlap]
+ > current_remain_pair (90, 8), rule (0, 69, 1), after rule partitioning - result: [], remain: [(82, 4)]
+
+running rule (1, 0, 69) for (90, 8)
+[a, no overlap]
+ > current_remain_pair (90, 8), rule (1, 0, 69), after rule partitioning - result: [], remain: [(82, 4)]
+
+running current_remain_pair: (82, 4)
+running rule (0, 69, 1) for (82, 4)
+[a, no overlap]
+ > current_remain_pair (82, 4), rule (0, 69, 1), after rule partitioning - result: [(90, 8)], remain: []
+
+running rule (1, 0, 69) for (82, 4)
+[a, no overlap]
+ > current_remain_pair (82, 4), rule (1, 0, 69), after rule partitioning - result: [(90, 8)], remain: []
+
+running current_remain_pair: (82, 4)
+running rule (60, 56, 37) for (82, 4)
+[b]
+ > current_remain_pair (82, 4), rule (60, 56, 37), after rule partitioning - result: [(86, 4)], remain: [(90, 8)]
+
+running current_remain_pair: (90, 8)
+running rule (60, 56, 37) for (90, 8)
+[e]
+running current_remain_pair: (93, 5)
+running rule (60, 56, 37) for (93, 5)
+[a, no overlap]
+ > current_remain_pair (93, 5), rule (60, 56, 37), after rule partitioning - result: [(86, 4), (94, 3)], remain: []
+
+running rule (56, 93, 4) for (93, 5)
+[c]
+running current_remain_pair: (97, 1)
+running rule (60, 56, 37) for (97, 1)
+[a, no overlap]
+ > current_remain_pair (97, 1), rule (60, 56, 37), after rule partitioning - result: [(86, 4), (94, 3), (56, 4)], remain: [(93, 0)]
+
+running rule (56, 93, 4) for (97, 1)
+[a, no overlap]
+ > current_remain_pair (97, 1), rule (56, 93, 4), after rule partitioning - result: [(86, 4), (94, 3), (56, 4)], remain: [(93, 0)]
+
+running current_remain_pair: (93, 0)
+running rule (60, 56, 37) for (93, 0)
+[a, no overlap]
+ > current_remain_pair (93, 0), rule (60, 56, 37), after rule partitioning - result: [(86, 4), (94, 3), (56, 4), (97, 1)], remain: []
+
+running rule (56, 93, 4) for (93, 0)
+[a, no overlap]
+ > current_remain_pair (93, 0), rule (56, 93, 4), after rule partitioning - result: [(86, 4), (94, 3), (56, 4), (97, 1)], remain: []
+
+locations [(46, 10), (82, 3), (86, 4), (94, 3), (56, 4), (97, 1), (93, 0)]
+min locations: 46
