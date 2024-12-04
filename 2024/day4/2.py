@@ -1,5 +1,5 @@
 
-def solver(line, target='MAS'):
+def solver(lines, target='MAS'):
     rows = len(lines)
     cols = len(lines[0])
     n = len(target)
