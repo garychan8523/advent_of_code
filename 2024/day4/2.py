@@ -12,7 +12,7 @@ def solver(line, target='MAS'):
                 print([lines[i+k][j+k] for k in range(n)])
                 if ''.join([lines[i+k][j+k] for k in range(n)]) in (target, target[::-1]):
                     # /
-                    z = j + 2
+                    z = j + n - 1
                     print([lines[i+k][j-k] for k in range(n)])
                     if ''.join([lines[i+k][z-k] for k in range(n)]) in (target, target[::-1]):
                         diagonal += 1
