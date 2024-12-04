@@ -1,5 +1,5 @@
 
-def solver(line, target='XMAS'):
+def solver(lines, target='XMAS'):
     rows = len(lines)
     cols = len(lines[0])
     n = len(target)
@@ -37,8 +37,10 @@ lines = open('sample')
 lines = [line.strip() for line in lines]
 total = solver(lines)
 print(total)
+assert total == 18
 
 lines = open('input')
 lines = [line.strip() for line in lines]
 total = solver(lines)
 print(total)
+assert total == 2551

@@ -26,8 +26,10 @@ lines = open('sample')
 lines = [line.strip() for line in lines]
 total = solver(lines)
 print(total)
+assert total == 9
 
 lines = open('input')
 lines = [line.strip() for line in lines]
 total = solver(lines)
 print(total)
+assert total == 1985
