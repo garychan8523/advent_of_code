@@ -19,10 +19,9 @@ def transform(lines):
 
 def solver(current, target, remains):
     #print(f'sover {current} {target} {remains}')
-    if len(remains) == 0 and current == target:
-        return True
-    
-    if len(remains) == 0 and current != target:
+    if len(remains) == 0:
+        return current == target
+    if current > target:
         return False
 
     operators = ['+', '*', '||']

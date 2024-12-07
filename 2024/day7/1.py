@@ -14,10 +14,9 @@ def transform(lines):
 
 def solver(current, target, remains):
     # print(f'sover {current} {target} {remains}')
-    if len(remains) == 0 and current == target:
-        return True
-    
-    if len(remains) == 0 and current != target:
+    if len(remains) == 0:
+        return current == target
+    if current > target:
         return False
 
     operators = ['+', '*']
@@ -51,7 +50,6 @@ for line in lines:
     if solver(0, target, values):
         total += target
     counter += 1
-    # it runs for few mins :-)
     print(counter)
 print(total)
 assert total == 3351424677624
