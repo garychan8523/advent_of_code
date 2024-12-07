@@ -45,7 +45,7 @@ lines = transform(open('sample'))
 for line in lines:
     target = line[0]
     values = line[1]
-    if solver(values[0], target, values[1:]):
+    if solver(0, target, values):
         #print(f'{target} {values} {sum(values)} is True')
         total += target
 assert total == 11387
