@@ -85,42 +85,23 @@ def get_extended_position(positionA, positionB, direction):
     
     
 def mark_antinodes(antinodes, positionA, positionB):
-    while True:
-        direction = get_direction(positionA, positionB)
-        extended_position = get_extended_position(positionA, positionB, direction)
-
-        if is_inbound(antinodes, extended_position):
-            m_row, m_col = extended_position[0], extended_position[1]
-            antinodes[m_row][m_col] = '#'
-
-            positionA = (positionB[0], positionB[1])
-            positionB = (m_row, m_col)
+    def mark(positionA, positionB):
+        while True:
+            direction = get_direction(positionA, positionB)
             extended_position = get_extended_position(positionA, positionB, direction)
-        else:
-            break
 
+            if is_inbound(antinodes, extended_position):
+                m_row, m_col = extended_position[0], extended_position[1]
+                antinodes[m_row][m_col] = '#'
 
+                positionA = (positionB[0], positionB[1])
+                positionB = (m_row, m_col)
+                extended_position = get_extended_position(positionA, positionB, direction)
+            else:
+                break
     
-    positionA, positionB = positionB, positionA
-
-    while True:
-        direction = get_direction(positionA, positionB)
-        extended_position = get_extended_position(positionA, positionB, direction)
-
-        if is_inbound(antinodes, extended_position):
-            m_row, m_col = extended_position[0], extended_position[1]
-            antinodes[m_row][m_col] = '#'
-
-            positionA = (positionB[0], positionB[1])
-            positionB = (m_row, m_col)
-            extended_position = get_extended_position(positionA, positionB, direction)
-        else:
-            break
-    
-
-    print(f'direction {direction}')
-    print(f'extended_position {extended_position}')
-
+    mark(positionA, positionB)
+    mark(positionB, positionA)
 
 
 def solver(grid):

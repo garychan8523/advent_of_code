@@ -84,26 +84,18 @@ def get_mirrored_position(positionA, positionB, direction):
         return (b_row+row_diff, b_col+col_diff)
     
     
-def mark_antinodes(antinodes, signal, positionA, positionB):
-    direction = get_direction(positionA, positionB)
-    mirrored_position = get_mirrored_position(positionA, positionB, direction)
+def mark_antinodes(antinodes, positionA, positionB):
+    def mark(positionA, positionB):
+        direction = get_direction(positionA, positionB)
+        mirrored_position = get_mirrored_position(positionA, positionB, direction)
 
-    if is_inbound(antinodes, mirrored_position):
-        m_row, m_col = mirrored_position[0], mirrored_position[1]
-        antinodes[m_row][m_col] = '#'
-    
-    positionA, positionB = positionB, positionA
-    direction = get_direction(positionA, positionB)
-    mirrored_position = get_mirrored_position(positionA, positionB, direction)
-
-    if is_inbound(antinodes, mirrored_position):
-        m_row, m_col = mirrored_position[0], mirrored_position[1]
-        antinodes[m_row][m_col] = '#'
+        if is_inbound(antinodes, mirrored_position):
+            m_row, m_col = mirrored_position[0], mirrored_position[1]
+            antinodes[m_row][m_col] = '#'
     
 
-    print(f'direction {direction}')
-    print(f'mirrored_position {mirrored_position}')
-
+    mark(positionA, positionB)
+    mark(positionB, positionA)
 
 
 def solver(grid):
@@ -137,7 +129,7 @@ def solver(grid):
 
             for remain in remains:
                 print(f'    check {current} with {remain}')
-                mark_antinodes(antinodes, signal, current, remain)
+                mark_antinodes(antinodes, current, remain)
 
     print('antinodes after')
     # display_grid(antinodes)
