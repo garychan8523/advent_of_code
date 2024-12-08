@@ -50,7 +50,7 @@ def get_direction(positionA, positionB):
         else:
             return 'bottom-right'
 
-def get_mirrored_position(positionA, positionB, direction):
+def get_extended_position(positionA, positionB, direction):
     a_row, a_col = positionA[0], positionA[1]
     b_row, b_col = positionB[0], positionB[1]
 
@@ -87,10 +87,10 @@ def get_mirrored_position(positionA, positionB, direction):
 def mark_antinodes(antinodes, positionA, positionB):
     def mark(positionA, positionB):
         direction = get_direction(positionA, positionB)
-        mirrored_position = get_mirrored_position(positionA, positionB, direction)
+        extended_position = get_extended_position(positionA, positionB, direction)
 
-        if is_inbound(antinodes, mirrored_position):
-            m_row, m_col = mirrored_position[0], mirrored_position[1]
+        if is_inbound(antinodes, extended_position):
+            m_row, m_col = extended_position[0], extended_position[1]
             antinodes[m_row][m_col] = '#'
     
 
