@@ -2,7 +2,7 @@ import logging
 
 
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO, format='%(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(message)s')
 
 
 
@@ -15,15 +15,17 @@ def transform(lines):
 
 
 def display_grid(grid, positions=None):
+    if logger.level > logging.DEBUG:
+        return
     rows, cols = len(grid), len(grid[0])
     for i in range(rows):
         for j in range(cols):
             if positions and (i, j) in positions:
-                logger.debug("X", end="")
+                print('X', end='')
                 continue
-            logger.debug(grid[i][j], end="")
-        logger.debug('')
-    logger.debug('')
+            print(grid[i][j], end='')
+        print('')
+    print('')
 
 
 def get_start(grid):
@@ -163,6 +165,7 @@ assert total == 6
 
 
 
+logger.setLevel(logging.INFO)
 total = 0
 grid = transform(open("input"))
 rows, cols = len(grid), len(grid[0])
