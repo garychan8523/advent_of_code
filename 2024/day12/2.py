@@ -23,22 +23,6 @@ def display_grid(grid):
 
 def copy_grid(grid):
     return [x[:] for x in grid]
-
-def filter_plant(grid, target):
-    rows, cols = len(grid), len(grid[0])
-    for i in range(rows):
-        for j in range(cols):
-            if grid[i][j] != target:
-                grid[i][j] = '.'
-
-def get_plant_count(grid, target):
-    count = 0
-    rows, cols = len(grid), len(grid[0])
-    for i in range(rows):
-        for j in range(cols):
-            if grid[i][j] == target:
-                count += 1
-    return count
     
 def inbound(grid, position):
     row, col = position[0], position[1]
