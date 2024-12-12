@@ -1,9 +1,8 @@
 import logging
 
 
-logger_level = logging.INFO
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logger_level, format='%(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(message)s')
 
 
 
@@ -13,7 +12,7 @@ def transform(lines):
     return lines
 
 def display_grid(grid):
-    if logger_level != logging.DEBUG:
+    if logger.level > logging.DEBUG:
         return
     rows, cols = len(grid), len(grid[0])
     for i in range(rows):
@@ -284,6 +283,7 @@ out = solver(grid)
 print(out)
 assert out == 1206
 
+logger.setLevel(logging.INFO)
 grid = transform(open('input'))
 out = solver(grid)
 print(out)
