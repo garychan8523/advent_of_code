@@ -25,6 +25,15 @@ def transform(lines):
     return machines
 
 
+# for linear equations
+# c_1 * a + c_2 * b = p_1  (1)
+# c_3 * a + c_4 * b = p_1  (2)
+# we multiply (1) by c_3 and (2) by c_1 to let both first term cancel out each other
+# then (1) second term - (2) second term will equals to (1) result - (2) result
+# finally we divide the result by the coefficent on l.h.s. to get value of b thus a
+# if (1) second term - (2) second term happens to be negative,
+# (1) result - (2) result should also be negative so value of b should be >= 0 
+
 def solver(machine):
     button_a, button_b, prize = machine[0], machine[1], machine[2]
     cost_a, cost_b = 3, 1
