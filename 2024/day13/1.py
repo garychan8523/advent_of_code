@@ -32,10 +32,7 @@ def solver(machine):
     b_x, b_y = button_b
     p_x, p_y = prize[0], prize[1]
 
-    print(f'(({p_x} * {b_x}) - ({p_y} * {a_x})) / (({a_y} * {b_x}) - ({b_y} * {a_x}))')
-    print(p_x * b_x)
-    print(p_y * a_x)
-    print((p_x * b_x) - (p_y * a_x))
+    print(f'(({p_x} * {a_y}) - ({p_y} * {a_x})) / (({b_x} * {a_y}) - ({b_y} * {b_y}))')
     b_pressed = ((p_x * a_y) - (p_y * a_x)) / ((b_x * a_y) - (b_y * a_x))
 
     if b_pressed < 0 or not b_pressed.is_integer():
