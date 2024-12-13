@@ -32,7 +32,7 @@ def transform(lines):
 # then (1) second term - (2) second term will equals to (1) result - (2) result
 # finally we divide the result by the coefficent on l.h.s. to get value of b thus a
 # if (1) second term - (2) second term happens to be negative,
-# (1) result - (2) result should also be negative so value of b should be >= 0 
+# (1) result - (2) result should also be negative so value of b should be >= 0 otherwise invalid
 
 def solver(machine):
     button_a, button_b, prize = machine[0], machine[1], machine[2]
